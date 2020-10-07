@@ -1,7 +1,6 @@
-# Tasks management system with Alarm
+# Tasks management system with Alarm to remind you and diffrent colors for tasks
 
-Assignment 10
-what we were working on is making sure that our system is able to handle all errors that can occure in our system, and can validate kind of data you input 
+
 
 Note:
 The time is independent, the time serves a timer for you so you can be able to do your task with in the
@@ -34,8 +33,4 @@ want it to remind them Also the time has to be in accordance with the users lapt
 please enter correct time, if your time has already passed then you will see nothing when 
 you start timer, and use Current time in yellow color above the menu, it will help you to 
 know how you PC count time.
-IN TESTING:
-Also please note most of our testing method are just repetition because
-Most of our classes contains just the init function
-Please note we did note test for the doc recording 
-we did not test for try and expt
+
